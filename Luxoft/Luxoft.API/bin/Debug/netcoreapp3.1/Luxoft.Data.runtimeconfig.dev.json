@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nirzar.ambade\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nirzar.ambade\\.nuget\\packages"
+    ]
+  }
+}
