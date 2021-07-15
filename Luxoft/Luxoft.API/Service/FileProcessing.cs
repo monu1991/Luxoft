@@ -17,7 +17,7 @@ namespace Luxoft.API.Service
         // currently saving the data into db if AssetID is not there
         public void LoadFileData()
         {
-            string filepath = @"C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft\input.csv";
+            string filepath = @"C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\input.csv";
             List<AssetFileModel> assets = new List<AssetFileModel>();
             using (var reader = new StreamReader(filepath))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))

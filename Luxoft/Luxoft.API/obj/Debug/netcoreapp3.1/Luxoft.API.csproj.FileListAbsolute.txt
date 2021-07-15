@@ -72,3 +72,8 @@ C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\ru
 C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nirzar.ambade\source\repos\Luxoft\Luxoft.API\obj\Debug\netcoreapp3.1\Luxoft.API.MvcApplicationPartsAssemblyInfo.cs
